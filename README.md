@@ -9,7 +9,7 @@ This project is an e-commerce application developed with React. The project incl
 <ul>
 
 <li>React</li>
-<li>JavaScript</li>
+<li>Javascript</li>
 <li>React Router DOM</li>
 <li>React Icons</li>
 
